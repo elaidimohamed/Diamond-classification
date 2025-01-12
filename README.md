@@ -3,8 +3,6 @@
 This repository uses the [Diamond Images Dataset](https://www.kaggle.com/datasets/aayushpurswani/diamond-images-dataset), a collection of diamond images and metadata suitable for computer vision and data analysis tasks. Below are the details and usage instructions for this repository.
 
 ![214182-446](https://github.com/user-attachments/assets/84e63053-c414-4abd-9d60-f50c2471cb49) 
-![111000-7009](https://github.com/user-attachments/assets/55e4ea38-3a58-4d5e-af15-eba867de2607)
-
 
 ## Introduction
 
